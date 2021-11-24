@@ -1,0 +1,9 @@
+d1; Human machine interface for Lab ABC computer applications.
+d2; A survey of user opinion of computer system response time.
+d3; The EPS user interface management system.
+d4; System and human system engineering testing of EPS.
+d5; Relation of user-perceived response time to error measurement.
+d6; The generation of random, binary, unordered trees.
+d7; The intersection graph of paths in trees.
+d8; Graph minors: Widths of trees and well-quasi-ordering.
+d9; Graph minors: A survey.
